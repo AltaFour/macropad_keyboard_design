@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri ${KIPRJMOD}/keebs.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name TheKeebrary)(type KiCad)(uri ${KIPRJMOD}/TheKeebrary.pretty)(options "")(descr ""))
+)
