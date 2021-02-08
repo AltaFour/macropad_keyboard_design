@@ -10,3 +10,6 @@
 [submodule "keyboard_parts.pretty"]
 	path = keyboard_parts.pretty
 	url = https://github.com/tmk/keyboard_parts.pretty
+[submodule "TheKeebrary.pretty"]
+	path = TheKeebrary.pretty
+	url = https://github.com/n0bs/TheKeebrary.pretty
