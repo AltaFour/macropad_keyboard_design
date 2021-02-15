@@ -148,7 +148,6 @@
     (add_net COL1)
     (add_net D+)
     (add_net D-)
-    (add_net GND)
     (add_net "Net-(C5-Pad1)")
     (add_net "Net-(C6-Pad1)")
     (add_net "Net-(C7-Pad1)")
@@ -199,6 +198,7 @@
     (diff_pair_width 7.874016)
     (diff_pair_gap 9.84252)
     (add_net +5V)
+    (add_net GND)
   )
 
   (module Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm (layer F.Cu) (tedit 5A0FD1B2) (tstamp 60211CD0)
