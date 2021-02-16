@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 4)
     (tracks 291)
     (zones 0)
     (modules 34)
@@ -1573,6 +1573,11 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_line (start 76.2 138.1125) (end 108.74375 138.1125) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 76.2 94.45625) (end 76.2 138.1125) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 76.2 80.9625) (end 76.2 94.45625) (layer Dwgs.User) (width 0.15))
+  (gr_line (start 108.74375 80.9625) (end 76.2 80.9625) (layer Dwgs.User) (width 0.15))
 
   (via (at 87.3125 116.68125) (size 1) (drill 0.5) (layers F.Cu B.Cu) (net 1) (tstamp 602B8E5C))
   (segment (start 47.625 142.117562) (end 47.65201 142.144572) (width 0.254) (layer B.Cu) (net 0))
