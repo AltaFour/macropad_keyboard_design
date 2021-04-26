@@ -8,4 +8,4 @@ Git
 Manufacturing:
 JLCPCB
 
-![alt text](https://github.com/AltaFour/macropad_keyboard_design/tree/main/images/PCB-Back.jpg?raw=true)
+![alt text](https://github.com/AltaFour/macropad_keyboard_design/blob/master/PCB-Back.jpg?raw=true)
