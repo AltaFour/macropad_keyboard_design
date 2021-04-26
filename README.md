@@ -15,4 +15,4 @@ This is the manufactured board without the components on it. I took this, solder
 This is a screenshot of the PCB design from KiCad which is a free open source pcb design software. I formatted this and sent it off to JLC PCB and they sent me the boards which are shown above.
 
 <img src="https://user-images.githubusercontent.com/78571959/116129293-2cf54780-a687-11eb-821c-fa97d42b336f.JPG" data-canonical-src="https://user-images.githubusercontent.com/78571959/116129293-2cf54780-a687-11eb-821c-fa97d42b336f.JPG" width="400" />
-This is a picture of the final product. I used SMD soldering to attach all the components. It has been flashed with QMK and works perfectly. I also designed a case that I am gonna have 3d printed once we finish building our 3d printer(will attach pictures with case after). 
+This is a picture of the final product. I used SMD soldering to attach all the components. It has been flashed with QMK and works perfectly. I also designed a case that I am going to have 3d printed once we finish building our 3d printer(will attach pictures with case after). 
