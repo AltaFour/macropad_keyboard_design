@@ -1,4 +1,4 @@
-# keyboard_design_example
+# macropad_keyboard_design
 Software Used:
 Autodesk Fusion 360 (Cad Software that is free for personal projects)
 KiCad (Open Source PCB design software)
@@ -8,4 +8,4 @@ Git
 Manufacturing:
 JLCPCB
 
-![alt text](https://github.com/AltaFour/keyboard_design_example/blob/master/PCB-Back.jpg?raw=true)
+![alt text](https://github.com/AltaFour/macropad_keyboard_design/blob/master/PCB-Back.jpg?raw=true)
