@@ -7,3 +7,5 @@ Git
 
 Manufacturing:
 JLCPCB
+
+![alt text](https://github.com/AltaFour/keyboard_design_example/blob/master/PCB-Back.jpg?raw=true)
