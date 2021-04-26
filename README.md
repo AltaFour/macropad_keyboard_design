@@ -8,4 +8,4 @@ Git
 Manufacturing:
 JLCPCB
 
-![PCB-Back-Small](https://user-images.githubusercontent.com/78571959/116119659-e8b07a00-a67b-11eb-8ef4-a823b3db2370.jpg)
+![PCB-Back-Small](https://user-images.githubusercontent.com/78571959/116120409-bbb09700-a67c-11eb-81c3-ecd360cce9dd.jpg)
