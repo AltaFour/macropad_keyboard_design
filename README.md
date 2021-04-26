@@ -10,6 +10,4 @@ JLCPCB
 
 ![PCB-Back-Small](https://user-images.githubusercontent.com/78571959/116120409-bbb09700-a67c-11eb-81c3-ecd360cce9dd.jpg)
 
-<img src="![PCB-Back](https://user-images.githubusercontent.com/78571959/116122398-f61b3380-a67e-11eb-8e62-2cadcc65ed79.JPG)
-" data-canonical-src="![PCB-Back](https://user-images.githubusercontent.com/78571959/116122398-f61b3380-a67e-11eb-8e62-2cadcc65ed79.JPG)
-" width="400" />
+<img src="https://user-images.githubusercontent.com/78571959/116122398-f61b3380-a67e-11eb-8e62-2cadcc65ed79.JPG" data-canonical-src="https://user-images.githubusercontent.com/78571959/116122398-f61b3380-a67e-11eb-8e62-2cadcc65ed79.JPG" width="400" />
