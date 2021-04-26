@@ -13,3 +13,5 @@ This is the manufactured board without the components on it. I took this, solder
 
 <img src="https://user-images.githubusercontent.com/78571959/116125643-fcabaa00-a682-11eb-8ca6-44903cc6f915.png" data-canonical-src="https://user-images.githubusercontent.com/78571959/116125643-fcabaa00-a682-11eb-8ca6-44903cc6f915.png" width="400" />
 This is a screenshot of the PCB design from KiCad which is a free open source pcb design software. I formatted this and sent it off to JLC PCB and they sent me the boards which are shown above.
+
+<img src="https://user-images.githubusercontent.com/78571959/116129293-2cf54780-a687-11eb-821c-fa97d42b336f.JPG" data-canonical-src="https://user-images.githubusercontent.com/78571959/116129293-2cf54780-a687-11eb-821c-fa97d42b336f.JPG" width="400" />
